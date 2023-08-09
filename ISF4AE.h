@@ -8,7 +8,7 @@ typedef short int int16;
 
 #define PF_TABLE_BITS 12
 #define PF_TABLE_SZ_16 4096
-
+#define VVGL_SDK_WIN
 #define PF_DEEP_COLOR_AWARE \
   1  // make sure we get 16bpc pixels;
      // AE_Effect.h checks for this.

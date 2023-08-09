@@ -1,4 +1,3 @@
-Win
 .DS_Store
 .vscode/
 
@@ -37,3 +36,6 @@ xcuserdata/
 /*.gcno
 
 # End of https://www.gitignore.io/api/xcode
+
+**/Debug
+**/.vs
